@@ -7,8 +7,7 @@ p {
 	font-family: 'Ubuntu', sans-serif;
 }
 body {
+	padding-top: 50px;
 	background-color: darkgrey;
 }
-nav {
-	padding-bottom: 50px;
-}
+
